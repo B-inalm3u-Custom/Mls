@@ -3,5 +3,5 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-STREAM-INF:BANDWIDTH=4300000,AVERAGE-BANDWIDTH=3191434,RESOLUTION=720x480,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://1.gujaratsat.live/play/live.php?mac=00:1A:79:17:C1:0E&stream=630456&extension=m3u8
+http://links-tv.com:8789/play/live.php?mac=00:1A:79:00:00:02&stream=455605&extension=m3u8
 #http://w4ktvpro.com:8080/play/live.php?mac=00:1A:79:C7:1E:6E&stream=847017&extension=m3u8
